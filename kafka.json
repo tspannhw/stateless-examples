@@ -1,0 +1,18 @@
+{
+  "registryUrl": "http://tspann-mbp15-hw14277:18080",
+  "bucketId": "140b30f0-5a47-4747-9021-19d4fde7f993",
+  "flowId": "402814a2-fb7a-4b19-a641-9f4bb191ed67",
+  "flowVersion": "1",
+  "ssl": {
+    "keystoreFile": "",
+    "keystorePass": "",
+    "keyPass": "",
+    "keystoreType": "",
+    "truststoreFile": "/Library/Java/JavaVirtualMachines/amazon-corretto-11.jdk/Contents/Home/lib/security/cacerts",
+    "truststorePass": "changeit",
+    "truststoreType": "JKS"
+  },
+  "parameters": {
+    "broker" : "3.218.152.236:9092"
+  }
+}
